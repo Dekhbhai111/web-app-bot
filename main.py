@@ -3,7 +3,7 @@ from threading import Thread
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot token
+BOT_TOKEN = "6313286573:AAGLT88WGxAMX1O25nWt62zfJ2LAeE6kTq0"  # Replace with your bot token
 
 # Flask Web Server to Keep Replit Alive
 app = Flask(__name__)
